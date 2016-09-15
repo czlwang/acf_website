@@ -3,17 +3,17 @@ $(document).ready(function(){
   // Event Descriptions
   var eventDescriptions = {
 
-    "ACF Boba Night": {
-      description: "Get to know the members of ACF over boba!",
-      location: "McCormick Country Kitchen",
-      date:"9/3",
-      time:"4:30-6:30pm",
+    "Worship & Prayer Night": {
+      description: "Join us for a refreshing night of worship and prayer as we fellowship together. Bring an instrument if you so choose!",
+      location: "W20-306 (Twenty Chimneys)",
+      date:"9/16",
+      time:"7:30-9:00pm",
     },
 
-    "Large Group": {
-      description: "Come worship at the first large group of the year!",
-      location: "W20-306 (Twenty Chimneys)",
-      date:"9/9",
+    "Joint Large Group with Intervarsity": {
+      description: "We join Intervarsity for a night of worship!",
+      // location: "W20-306 (Twenty Chimneys)",
+      date:"9/23",
       time:"7:00-9:00pm",
     }
     
